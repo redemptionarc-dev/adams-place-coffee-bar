@@ -1,0 +1,25 @@
+{
+  "name": "Adam's Place Coffee Bar",
+  "short_name": "Coffee Bar",
+  "description": "A staff-appreciation espresso recipe book for Adam's Place \u2014 hot and iced drinks, tap to view.",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#faf6ee",
+  "theme_color": "#c9d9c0",
+  "icons": [
+    {
+      "src": "icons/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "icons/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
